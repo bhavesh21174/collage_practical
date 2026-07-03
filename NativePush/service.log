@@ -1,0 +1,5 @@
+[2026-07-01 12:30:19] [INFO] 5944 - version=[1.0.1.1]
+[2026-07-01 12:30:19] [INFO] 5944 - service begin.
+[2026-07-01 12:30:19] [INFO] 6772 - service launch.
+[2026-07-01 12:30:19] [INFO] 6772 - running
+[2026-07-01 12:30:19] [ERROR] 6884 - INTER_GetExplorerToken failed!

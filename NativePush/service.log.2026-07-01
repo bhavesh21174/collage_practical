@@ -1,0 +1,5 @@
+[2026-06-30 21:49:36] [INFO] 5928 - version=[1.0.1.1]
+[2026-06-30 21:49:36] [INFO] 5928 - service begin.
+[2026-06-30 21:49:36] [INFO] 6720 - service launch.
+[2026-06-30 21:49:37] [INFO] 6720 - running
+[2026-06-30 21:49:37] [ERROR] 6836 - INTER_GetExplorerToken failed!
